@@ -28,11 +28,9 @@ This course focuses on the principles and practices of distributed systems. The 
 
 4. **Lab 4: DHT**
     - Description: Building a Distributed Hash Table for P2P Communication.
-    - Due Date: [Insert Date]
 
 5. **Lab 5: Blockchain**
     - Description: Creating a simple blockchain to understand consensus mechanisms.
-    - Due Date: [Insert Date]
 
 All five labs and their solutions are available in this repository.
 
