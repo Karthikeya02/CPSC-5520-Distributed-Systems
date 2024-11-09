@@ -32,7 +32,7 @@ This course focuses on the principles and practices of distributed systems. The 
 5. **Lab 5: Blockchain**
     - Description: Creating a simple blockchain to understand consensus mechanisms.
 
-All five labs and their solutions are available in this repository.
+
 
 
 ## Resources
