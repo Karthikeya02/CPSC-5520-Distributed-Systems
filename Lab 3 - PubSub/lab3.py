@@ -1,3 +1,10 @@
+'''
+CPSC 5520, Seattle University
+This is free and unencumbered software released into the public domain.
+:Authors: Karthikeya Panangipalli
+:Version: f24
+Pub/Sub System
+'''
 import socket
 import struct
 import math
