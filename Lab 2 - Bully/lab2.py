@@ -1,3 +1,11 @@
+'''
+CPSC 5520, Seattle University
+This is free and unencumbered software released into the public domain.
+:Authors: Karthikeya Panangipalli
+:Version: f24
+Bully Algorithm Implementation
+'''
+
 import sys
 import socket
 import pickle
