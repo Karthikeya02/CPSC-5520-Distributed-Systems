@@ -3,6 +3,7 @@ CPSC 5520, Seattle University
 This is free and unencumbered software released into the public domain.
 :Authors: Karthikeya Panangipalli
 :Version: f24-01
+Simple Client
 """
 
 import socket
